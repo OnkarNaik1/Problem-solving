@@ -1,2 +1,8 @@
 # Problem-solving
-Daily problem-solving practice using SQL, Python, and PySpark to build strong data engineering and analytical skills.
+
+Focused on SQL, Python, and PySpark practice for data engineering.
+
+## Structure
+- SQL
+- Python
+- PySpark
