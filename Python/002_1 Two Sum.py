@@ -8,4 +8,4 @@ class Solution:
                     if  target == nums[i] + nums[j]:
                         ls.append(i)
                         ls.append(j)                       
-        return ls
+        return ls 
